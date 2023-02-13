@@ -1,56 +1,17 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="d75af96b-e6b5-485c-a461-45281c6f95d0" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/basic/EnumClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/OzWitch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/basic/Reflection.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/ArrayShow.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/BasicSupplier.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/CollectionMethodDifferences.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/ConvertTo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Count.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/CountMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/CountingIntegerList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Countries.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Enums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/FillMap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/HTMLColors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/MouseClick.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Nap.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Null.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/OSExecute.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/OSExecuteException.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Operations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Pair.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/ProcessFiles.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Rand.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Range.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Repeat.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/RmDir.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Sets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Stack.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Suppliers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/TestRange.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/TimedAbort.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Timer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Tuple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Tuple2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Tuple3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Tuple4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/Tuple5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/TypeCounter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/atunit/AtUnit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/atunit/ClassNameFinder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/atunit/Test.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/atunit/TestObjectCleanup.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/atunit/TestObjectCreate.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/onjava/atunit/TestProperty.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/ConstructorsTests.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/EnClass.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/Films.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/tests/Switches.java" afterDir="false" />
+    <list default="true" id="d75af96b-e6b5-485c-a461-45281c6f95d0" name="Changes" comment="comm">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/cartoons/EnumImplementation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/organization/DrugCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/organization/SecurityCategory.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/Car.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/CarTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/Cars.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/tests/RandomTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/onjava/Enums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/onjava/Enums.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -63,6 +24,7 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
+        <option value="Interface" />
         <option value="Enum" />
         <option value="Class" />
       </list>
@@ -90,6 +52,7 @@
     "ASKED_ADD_EXTERNAL_FILES": "true",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "/home/oleh/IdeaProjects/EnumOJ8/src"
   }
 }]]></component>
@@ -107,6 +70,14 @@
       <option name="presentableId" value="Default" />
       <updated>1676177568381</updated>
     </task>
+    <task id="LOCAL-00001" summary="comm">
+      <created>1676189331974</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1676189331974</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,5 +93,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+    <MESSAGE value="comm" />
+    <option name="LAST_COMMIT_MESSAGE" value="comm" />
   </component>
 </project>
