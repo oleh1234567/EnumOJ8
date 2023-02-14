@@ -16,9 +16,12 @@ public enum MyCSM {
     };
     abstract String getInfo();
 
+
+}
+
+class Testiuk{
     public static void main(String[] args) {
-        for(MyCSM val : values()){
-            System.out.println(val.getInfo());
-        }
+       MyCSM m = MyCSM.SENTENCE;
+        System.out.println(m.getInfo());
     }
 }

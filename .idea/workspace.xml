@@ -1,19 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
-  <component name="AutoImportSettings">
-    <option name="autoReloadType" value="SELECTIVE" />
-  </component>
   <component name="ChangeListManager">
     <list default="true" id="d75af96b-e6b5-485c-a461-45281c6f95d0" name="Changes" comment="comm">
-      <change afterPath="$PROJECT_DIR$/src/carparts/Catalogue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constantspecificmethods/ConstantSpecificMethod.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/constantspecificmethods/MyCSM.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maps/EnumMaps.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/maps/MyEnumMapTest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sets/AlarmPoints.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sets/EnumSets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/sets/MyEnumSetTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constantspecificmethods/CarWash.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constantspecificmethods/Input.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constantspecificmethods/NotClasses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constantspecificmethods/PostOffice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/constantspecificmethods/VendingMachine.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/constantspecificmethods/MyCSM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/constantspecificmethods/MyCSM.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -27,8 +22,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
-        <option value="Class" />
         <option value="Enum" />
+        <option value="Class" />
       </list>
     </option>
   </component>
